@@ -31,7 +31,7 @@ result will be in folder called 'dist' in your current directory
  # Downlaoding :
 you can download the latest verison from the link below ⬇️
 
-# [Download Me](https://github.com/Osama-Abd-El-Mohsen/ES_CodeGen_Scripts/releases/tag/v3.0)
+# [Download Me](https://github.com/Osama-Abd-El-Mohsen/py_2_exe/releases/tag/v1.0)
 
 
-Contributions to ES_CodeGen_Scripts are welcome! If you have ideas for improvements, bug fixes, or additional features, feel free to open issues or pull requests.
+Contributions to py_2_exe are welcome! If you have ideas for improvements, bug fixes, or additional features, feel free to open issues or pull requests.
